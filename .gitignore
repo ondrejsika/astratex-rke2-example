@@ -13,3 +13,7 @@
 *.local.yaml
 *.local.json
 *.local.txt
+
+# Kuberneres
+kubeconfig.yml
+kubeconfig.*.yml
